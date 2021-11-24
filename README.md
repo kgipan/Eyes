@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Skills](#skills)
 * [Setup](#setup)
+* [Future](#future)
 * [License](#license)
 ## General info
 This exercise was part of an assignment for MIT xPRO's Professional Certificate in Coding: Women's Cohort. The goal of the exercise was to successfully have two identical eyes that follow the users mouse. This exercise is a great example of how to dynamically control styles using HTML, JavaScript and CSS.
@@ -17,6 +18,9 @@ This exercise uses:
 	
 ## Setup
 To run this exercise, simply clone this respository and open ```eyes.html``` in your preferred browser.
+
+## Future
+I would like to add more style to this exercise, create a face that have some dynamic features as well.
 
 ## License
 MIT License
